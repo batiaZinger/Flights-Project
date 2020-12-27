@@ -1,0 +1,88 @@
+C:\Users\User\Desktop\שיעורי בית\web\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.deps.json
+C:\Users\User\Desktop\שיעורי בית\web\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\User\Desktop\שיעורי בית\web\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+C:\Users\User\Desktop\שיעורי בית\web\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\שיעורי בית\web\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\שיעורי בית\web\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+C:\Users\User\Desktop\שיעורי בית\web\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.json
+C:\Users\User\Desktop\שיעורי בית\web\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.dev.json
+C:\Users\User\Desktop\שיעורי בית\web\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\User\Desktop\שיעורי בית\web\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\User\Desktop\שיעורי בית\web\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\User\Desktop\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.deps.json
+C:\Users\User\Desktop\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.json
+C:\Users\User\Desktop\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.dev.json
+C:\Users\User\Desktop\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\User\Desktop\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\User\Desktop\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+C:\Users\User\Desktop\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+C:\Users\User\Desktop\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\User\Desktop\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\User\Desktop\HomeWork\webApi\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.deps.json
+C:\Users\User\Desktop\HomeWork\webApi\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.json
+C:\Users\User\Desktop\HomeWork\webApi\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.dev.json
+C:\Users\User\Desktop\HomeWork\webApi\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\User\Desktop\HomeWork\webApi\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\User\Desktop\HomeWork\webApi\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+C:\Users\User\Desktop\HomeWork\webApi\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HomeWork\webApi\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HomeWork\webApi\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+C:\Users\User\Desktop\HomeWork\webApi\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\User\Desktop\HomeWork\webApi\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.pdb
+F:\webApi\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.deps.json
+F:\webApi\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.json
+F:\webApi\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.dev.json
+F:\webApi\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.dll
+F:\webApi\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.pdb
+F:\webApi\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+F:\webApi\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+F:\webApi\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+F:\webApi\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+F:\webApi\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.dll
+F:\webApi\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.pdb
+D:\webApi\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.deps.json
+D:\webApi\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.json
+D:\webApi\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.dev.json
+D:\webApi\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\webApi\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\webApi\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+D:\webApi\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+D:\webApi\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+D:\webApi\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+D:\webApi\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.dll
+D:\webApi\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.pdb
+M:\אביבה\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.deps.json
+M:\אביבה\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.json
+M:\אביבה\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.dev.json
+M:\אביבה\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.dll
+M:\אביבה\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.pdb
+M:\אביבה\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+M:\אביבה\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+M:\אביבה\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+M:\אביבה\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+M:\אביבה\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.dll
+M:\אביבה\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.pdb
+D:\WebApi\פרויקט נוחה webApi\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.deps.json
+D:\WebApi\פרויקט נוחה webApi\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.json
+D:\WebApi\פרויקט נוחה webApi\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.dev.json
+D:\WebApi\פרויקט נוחה webApi\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\WebApi\פרויקט נוחה webApi\project\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\WebApi\פרויקט נוחה webApi\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+D:\WebApi\פרויקט נוחה webApi\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+D:\WebApi\פרויקט נוחה webApi\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+D:\WebApi\פרויקט נוחה webApi\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+D:\WebApi\פרויקט נוחה webApi\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.dll
+D:\WebApi\פרויקט נוחה webApi\project\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\henri\Documents\Batia Zinger\project- flights\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.deps.json
+C:\Users\henri\Documents\Batia Zinger\project- flights\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.json
+C:\Users\henri\Documents\Batia Zinger\project- flights\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.dev.json
+C:\Users\henri\Documents\Batia Zinger\project- flights\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\henri\Documents\Batia Zinger\project- flights\ClassLibrary1\bin\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\henri\Documents\Batia Zinger\project- flights\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+C:\Users\henri\Documents\Batia Zinger\project- flights\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\Batia Zinger\project- flights\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\Batia Zinger\project- flights\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+C:\Users\henri\Documents\Batia Zinger\project- flights\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\henri\Documents\Batia Zinger\project- flights\ClassLibrary1\obj\Debug\netcoreapp2.1\Repositories.pdb

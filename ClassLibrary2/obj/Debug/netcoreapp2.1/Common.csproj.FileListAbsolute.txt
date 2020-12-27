@@ -1,0 +1,45 @@
+F:\webApi\project\ClassLibrary2\bin\Debug\netcoreapp2.1\Common.deps.json
+F:\webApi\project\ClassLibrary2\bin\Debug\netcoreapp2.1\Common.dll
+F:\webApi\project\ClassLibrary2\bin\Debug\netcoreapp2.1\Common.pdb
+F:\webApi\project\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+F:\webApi\project\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+F:\webApi\project\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+F:\webApi\project\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.dll
+F:\webApi\project\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.pdb
+D:\webApi\project\ClassLibrary2\bin\Debug\netcoreapp2.1\Common.deps.json
+D:\webApi\project\ClassLibrary2\bin\Debug\netcoreapp2.1\Common.dll
+D:\webApi\project\ClassLibrary2\bin\Debug\netcoreapp2.1\Common.pdb
+D:\webApi\project\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+D:\webApi\project\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+D:\webApi\project\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+D:\webApi\project\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+D:\webApi\project\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.dll
+D:\webApi\project\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.pdb
+F:\webApi\project\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+M:\אביבה\project\ClassLibrary2\bin\Debug\netcoreapp2.1\Common.deps.json
+M:\אביבה\project\ClassLibrary2\bin\Debug\netcoreapp2.1\Common.dll
+M:\אביבה\project\ClassLibrary2\bin\Debug\netcoreapp2.1\Common.pdb
+M:\אביבה\project\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+M:\אביבה\project\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+M:\אביבה\project\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+M:\אביבה\project\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+M:\אביבה\project\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.dll
+M:\אביבה\project\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.pdb
+D:\WebApi\פרויקט נוחה webApi\project\ClassLibrary2\bin\Debug\netcoreapp2.1\Common.deps.json
+D:\WebApi\פרויקט נוחה webApi\project\ClassLibrary2\bin\Debug\netcoreapp2.1\Common.dll
+D:\WebApi\פרויקט נוחה webApi\project\ClassLibrary2\bin\Debug\netcoreapp2.1\Common.pdb
+D:\WebApi\פרויקט נוחה webApi\project\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+D:\WebApi\פרויקט נוחה webApi\project\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+D:\WebApi\פרויקט נוחה webApi\project\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+D:\WebApi\פרויקט נוחה webApi\project\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+D:\WebApi\פרויקט נוחה webApi\project\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.dll
+D:\WebApi\פרויקט נוחה webApi\project\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.pdb
+C:\Users\henri\Documents\Batia Zinger\project- flights\ClassLibrary2\bin\Debug\netcoreapp2.1\Common.deps.json
+C:\Users\henri\Documents\Batia Zinger\project- flights\ClassLibrary2\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\henri\Documents\Batia Zinger\project- flights\ClassLibrary2\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\henri\Documents\Batia Zinger\project- flights\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+C:\Users\henri\Documents\Batia Zinger\project- flights\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\Batia Zinger\project- flights\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\Batia Zinger\project- flights\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+C:\Users\henri\Documents\Batia Zinger\project- flights\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.dll
+C:\Users\henri\Documents\Batia Zinger\project- flights\ClassLibrary2\obj\Debug\netcoreapp2.1\Common.pdb

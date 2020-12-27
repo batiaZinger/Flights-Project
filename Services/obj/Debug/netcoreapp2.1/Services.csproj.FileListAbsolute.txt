@@ -1,0 +1,70 @@
+F:\webApi\project\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+F:\webApi\project\Services\bin\Debug\netcoreapp2.1\Services.dll
+F:\webApi\project\Services\bin\Debug\netcoreapp2.1\Services.pdb
+F:\webApi\project\Services\bin\Debug\netcoreapp2.1\Common.dll
+F:\webApi\project\Services\bin\Debug\netcoreapp2.1\Repositories.dll
+F:\webApi\project\Services\bin\Debug\netcoreapp2.1\Repositories.pdb
+F:\webApi\project\Services\bin\Debug\netcoreapp2.1\Common.pdb
+F:\webApi\project\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+F:\webApi\project\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+F:\webApi\project\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+F:\webApi\project\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+F:\webApi\project\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+F:\webApi\project\Services\obj\Debug\netcoreapp2.1\Services.dll
+F:\webApi\project\Services\obj\Debug\netcoreapp2.1\Services.pdb
+D:\webApi\project\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+D:\webApi\project\Services\bin\Debug\netcoreapp2.1\Services.dll
+D:\webApi\project\Services\bin\Debug\netcoreapp2.1\Services.pdb
+D:\webApi\project\Services\bin\Debug\netcoreapp2.1\Common.dll
+D:\webApi\project\Services\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\webApi\project\Services\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\webApi\project\Services\bin\Debug\netcoreapp2.1\Common.pdb
+D:\webApi\project\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+D:\webApi\project\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+D:\webApi\project\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+D:\webApi\project\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+D:\webApi\project\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+D:\webApi\project\Services\obj\Debug\netcoreapp2.1\Services.dll
+D:\webApi\project\Services\obj\Debug\netcoreapp2.1\Services.pdb
+M:\אביבה\project\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+M:\אביבה\project\Services\bin\Debug\netcoreapp2.1\Services.dll
+M:\אביבה\project\Services\bin\Debug\netcoreapp2.1\Services.pdb
+M:\אביבה\project\Services\bin\Debug\netcoreapp2.1\Common.dll
+M:\אביבה\project\Services\bin\Debug\netcoreapp2.1\Repositories.dll
+M:\אביבה\project\Services\bin\Debug\netcoreapp2.1\Repositories.pdb
+M:\אביבה\project\Services\bin\Debug\netcoreapp2.1\Common.pdb
+M:\אביבה\project\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+M:\אביבה\project\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+M:\אביבה\project\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+M:\אביבה\project\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+M:\אביבה\project\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+M:\אביבה\project\Services\obj\Debug\netcoreapp2.1\Services.dll
+M:\אביבה\project\Services\obj\Debug\netcoreapp2.1\Services.pdb
+D:\WebApi\פרויקט נוחה webApi\project\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+D:\WebApi\פרויקט נוחה webApi\project\Services\bin\Debug\netcoreapp2.1\Services.dll
+D:\WebApi\פרויקט נוחה webApi\project\Services\bin\Debug\netcoreapp2.1\Services.pdb
+D:\WebApi\פרויקט נוחה webApi\project\Services\bin\Debug\netcoreapp2.1\Common.dll
+D:\WebApi\פרויקט נוחה webApi\project\Services\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\WebApi\פרויקט נוחה webApi\project\Services\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\WebApi\פרויקט נוחה webApi\project\Services\bin\Debug\netcoreapp2.1\Common.pdb
+D:\WebApi\פרויקט נוחה webApi\project\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+D:\WebApi\פרויקט נוחה webApi\project\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+D:\WebApi\פרויקט נוחה webApi\project\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+D:\WebApi\פרויקט נוחה webApi\project\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+D:\WebApi\פרויקט נוחה webApi\project\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+D:\WebApi\פרויקט נוחה webApi\project\Services\obj\Debug\netcoreapp2.1\Services.dll
+D:\WebApi\פרויקט נוחה webApi\project\Services\obj\Debug\netcoreapp2.1\Services.pdb
+C:\Users\henri\Documents\Batia Zinger\project- flights\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+C:\Users\henri\Documents\Batia Zinger\project- flights\Services\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\henri\Documents\Batia Zinger\project- flights\Services\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\henri\Documents\Batia Zinger\project- flights\Services\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\henri\Documents\Batia Zinger\project- flights\Services\bin\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\henri\Documents\Batia Zinger\project- flights\Services\bin\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\henri\Documents\Batia Zinger\project- flights\Services\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\henri\Documents\Batia Zinger\project- flights\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+C:\Users\henri\Documents\Batia Zinger\project- flights\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\Batia Zinger\project- flights\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\Batia Zinger\project- flights\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+C:\Users\henri\Documents\Batia Zinger\project- flights\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+C:\Users\henri\Documents\Batia Zinger\project- flights\Services\obj\Debug\netcoreapp2.1\Services.dll
+C:\Users\henri\Documents\Batia Zinger\project- flights\Services\obj\Debug\netcoreapp2.1\Services.pdb

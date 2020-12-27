@@ -1,0 +1,141 @@
+C:\Users\User\Desktop\שיעורי בית\web\project\project\bin\Debug\netcoreapp2.1\project.deps.json
+C:\Users\User\Desktop\שיעורי בית\web\project\project\bin\Debug\netcoreapp2.1\project.runtimeconfig.json
+C:\Users\User\Desktop\שיעורי בית\web\project\project\bin\Debug\netcoreapp2.1\project.runtimeconfig.dev.json
+C:\Users\User\Desktop\שיעורי בית\web\project\project\bin\Debug\netcoreapp2.1\project.dll
+C:\Users\User\Desktop\שיעורי בית\web\project\project\obj\Debug\netcoreapp2.1\project.csprojAssemblyReference.cache
+C:\Users\User\Desktop\שיעורי בית\web\project\project\obj\Debug\netcoreapp2.1\project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\שיעורי בית\web\project\project\obj\Debug\netcoreapp2.1\project.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\שיעורי בית\web\project\project\obj\Debug\netcoreapp2.1\project.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\שיעורי בית\web\project\project\obj\Debug\netcoreapp2.1\project.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\שיעורי בית\web\project\project\obj\Debug\netcoreapp2.1\project.AssemblyInfo.cs
+C:\Users\User\Desktop\שיעורי בית\web\project\project\obj\Debug\netcoreapp2.1\project.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\שיעורי בית\web\project\project\bin\Debug\netcoreapp2.1\project.pdb
+C:\Users\User\Desktop\שיעורי בית\web\project\project\obj\Debug\netcoreapp2.1\project.dll
+C:\Users\User\Desktop\שיעורי בית\web\project\project\obj\Debug\netcoreapp2.1\project.pdb
+C:\Users\User\Desktop\project\project\obj\Debug\netcoreapp2.1\project.csprojAssemblyReference.cache
+C:\Users\User\Desktop\project\project\obj\Debug\netcoreapp2.1\project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\project\project\obj\Debug\netcoreapp2.1\project.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\project\project\obj\Debug\netcoreapp2.1\project.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\project\project\obj\Debug\netcoreapp2.1\project.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\project\project\obj\Debug\netcoreapp2.1\project.AssemblyInfo.cs
+C:\Users\User\Desktop\project\project\obj\Debug\netcoreapp2.1\project.dll
+C:\Users\User\Desktop\project\project\obj\Debug\netcoreapp2.1\project.pdb
+C:\Users\User\Desktop\HomeWork\webApi\project\project\obj\Debug\netcoreapp2.1\project.csprojAssemblyReference.cache
+C:\Users\User\Desktop\HomeWork\webApi\project\project\obj\Debug\netcoreapp2.1\project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HomeWork\webApi\project\project\obj\Debug\netcoreapp2.1\project.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\HomeWork\webApi\project\project\obj\Debug\netcoreapp2.1\project.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\HomeWork\webApi\project\project\obj\Debug\netcoreapp2.1\project.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HomeWork\webApi\project\project\obj\Debug\netcoreapp2.1\project.AssemblyInfo.cs
+C:\Users\User\Desktop\HomeWork\webApi\project\project\obj\Debug\netcoreapp2.1\project.dll
+C:\Users\User\Desktop\HomeWork\webApi\project\project\obj\Debug\netcoreapp2.1\project.pdb
+C:\Users\User\Desktop\HomeWork\webApi\project\project\bin\Debug\netcoreapp2.1\project.deps.json
+C:\Users\User\Desktop\HomeWork\webApi\project\project\bin\Debug\netcoreapp2.1\project.runtimeconfig.json
+C:\Users\User\Desktop\HomeWork\webApi\project\project\bin\Debug\netcoreapp2.1\project.runtimeconfig.dev.json
+C:\Users\User\Desktop\HomeWork\webApi\project\project\bin\Debug\netcoreapp2.1\project.dll
+C:\Users\User\Desktop\HomeWork\webApi\project\project\bin\Debug\netcoreapp2.1\project.pdb
+C:\Users\User\Desktop\HomeWork\webApi\project\project\obj\Debug\netcoreapp2.1\project.RazorTargetAssemblyInfo.cache
+F:\webApi\project\project\bin\Debug\netcoreapp2.1\project.deps.json
+F:\webApi\project\project\bin\Debug\netcoreapp2.1\project.runtimeconfig.json
+F:\webApi\project\project\bin\Debug\netcoreapp2.1\project.runtimeconfig.dev.json
+F:\webApi\project\project\bin\Debug\netcoreapp2.1\project.dll
+F:\webApi\project\project\bin\Debug\netcoreapp2.1\project.pdb
+F:\webApi\project\project\bin\Debug\netcoreapp2.1\Common.dll
+F:\webApi\project\project\bin\Debug\netcoreapp2.1\Repositories.dll
+F:\webApi\project\project\bin\Debug\netcoreapp2.1\Services.dll
+F:\webApi\project\project\bin\Debug\netcoreapp2.1\Common.pdb
+F:\webApi\project\project\bin\Debug\netcoreapp2.1\Services.pdb
+F:\webApi\project\project\bin\Debug\netcoreapp2.1\Repositories.pdb
+F:\webApi\project\project\obj\Debug\netcoreapp2.1\project.csprojAssemblyReference.cache
+F:\webApi\project\project\obj\Debug\netcoreapp2.1\project.csproj.CoreCompileInputs.cache
+F:\webApi\project\project\obj\Debug\netcoreapp2.1\project.RazorAssemblyInfo.cache
+F:\webApi\project\project\obj\Debug\netcoreapp2.1\project.RazorAssemblyInfo.cs
+F:\webApi\project\project\obj\Debug\netcoreapp2.1\project.AssemblyInfoInputs.cache
+F:\webApi\project\project\obj\Debug\netcoreapp2.1\project.AssemblyInfo.cs
+F:\webApi\project\project\obj\Debug\netcoreapp2.1\project.RazorTargetAssemblyInfo.cache
+F:\webApi\project\project\obj\Debug\netcoreapp2.1\project.csproj.CopyComplete
+F:\webApi\project\project\obj\Debug\netcoreapp2.1\project.dll
+F:\webApi\project\project\obj\Debug\netcoreapp2.1\project.pdb
+D:\webApi\project\project\bin\Debug\netcoreapp2.1\project.deps.json
+D:\webApi\project\project\bin\Debug\netcoreapp2.1\project.runtimeconfig.json
+D:\webApi\project\project\bin\Debug\netcoreapp2.1\project.runtimeconfig.dev.json
+D:\webApi\project\project\bin\Debug\netcoreapp2.1\project.dll
+D:\webApi\project\project\bin\Debug\netcoreapp2.1\project.pdb
+D:\webApi\project\project\bin\Debug\netcoreapp2.1\Common.dll
+D:\webApi\project\project\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\webApi\project\project\bin\Debug\netcoreapp2.1\Services.dll
+D:\webApi\project\project\bin\Debug\netcoreapp2.1\Common.pdb
+D:\webApi\project\project\bin\Debug\netcoreapp2.1\Services.pdb
+D:\webApi\project\project\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\webApi\project\project\obj\Debug\netcoreapp2.1\project.csprojAssemblyReference.cache
+D:\webApi\project\project\obj\Debug\netcoreapp2.1\project.csproj.CoreCompileInputs.cache
+D:\webApi\project\project\obj\Debug\netcoreapp2.1\project.RazorAssemblyInfo.cache
+D:\webApi\project\project\obj\Debug\netcoreapp2.1\project.RazorAssemblyInfo.cs
+D:\webApi\project\project\obj\Debug\netcoreapp2.1\project.AssemblyInfoInputs.cache
+D:\webApi\project\project\obj\Debug\netcoreapp2.1\project.AssemblyInfo.cs
+D:\webApi\project\project\obj\Debug\netcoreapp2.1\project.RazorTargetAssemblyInfo.cache
+D:\webApi\project\project\obj\Debug\netcoreapp2.1\project.csproj.CopyComplete
+D:\webApi\project\project\obj\Debug\netcoreapp2.1\project.dll
+D:\webApi\project\project\obj\Debug\netcoreapp2.1\project.pdb
+M:\אביבה\project\project\bin\Debug\netcoreapp2.1\project.deps.json
+M:\אביבה\project\project\bin\Debug\netcoreapp2.1\project.runtimeconfig.json
+M:\אביבה\project\project\bin\Debug\netcoreapp2.1\project.runtimeconfig.dev.json
+M:\אביבה\project\project\bin\Debug\netcoreapp2.1\project.dll
+M:\אביבה\project\project\bin\Debug\netcoreapp2.1\project.pdb
+M:\אביבה\project\project\bin\Debug\netcoreapp2.1\Common.dll
+M:\אביבה\project\project\bin\Debug\netcoreapp2.1\Repositories.dll
+M:\אביבה\project\project\bin\Debug\netcoreapp2.1\Services.dll
+M:\אביבה\project\project\bin\Debug\netcoreapp2.1\Common.pdb
+M:\אביבה\project\project\bin\Debug\netcoreapp2.1\Services.pdb
+M:\אביבה\project\project\bin\Debug\netcoreapp2.1\Repositories.pdb
+M:\אביבה\project\project\obj\Debug\netcoreapp2.1\project.csprojAssemblyReference.cache
+M:\אביבה\project\project\obj\Debug\netcoreapp2.1\project.csproj.CoreCompileInputs.cache
+M:\אביבה\project\project\obj\Debug\netcoreapp2.1\project.RazorAssemblyInfo.cache
+M:\אביבה\project\project\obj\Debug\netcoreapp2.1\project.RazorAssemblyInfo.cs
+M:\אביבה\project\project\obj\Debug\netcoreapp2.1\project.AssemblyInfoInputs.cache
+M:\אביבה\project\project\obj\Debug\netcoreapp2.1\project.AssemblyInfo.cs
+M:\אביבה\project\project\obj\Debug\netcoreapp2.1\project.RazorTargetAssemblyInfo.cache
+M:\אביבה\project\project\obj\Debug\netcoreapp2.1\project.csproj.CopyComplete
+M:\אביבה\project\project\obj\Debug\netcoreapp2.1\project.dll
+M:\אביבה\project\project\obj\Debug\netcoreapp2.1\project.pdb
+D:\WebApi\פרויקט נוחה webApi\project\project\bin\Debug\netcoreapp2.1\project.deps.json
+D:\WebApi\פרויקט נוחה webApi\project\project\bin\Debug\netcoreapp2.1\project.runtimeconfig.json
+D:\WebApi\פרויקט נוחה webApi\project\project\bin\Debug\netcoreapp2.1\project.runtimeconfig.dev.json
+D:\WebApi\פרויקט נוחה webApi\project\project\bin\Debug\netcoreapp2.1\project.dll
+D:\WebApi\פרויקט נוחה webApi\project\project\bin\Debug\netcoreapp2.1\project.pdb
+D:\WebApi\פרויקט נוחה webApi\project\project\bin\Debug\netcoreapp2.1\Common.dll
+D:\WebApi\פרויקט נוחה webApi\project\project\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\WebApi\פרויקט נוחה webApi\project\project\bin\Debug\netcoreapp2.1\Services.dll
+D:\WebApi\פרויקט נוחה webApi\project\project\bin\Debug\netcoreapp2.1\Common.pdb
+D:\WebApi\פרויקט נוחה webApi\project\project\bin\Debug\netcoreapp2.1\Services.pdb
+D:\WebApi\פרויקט נוחה webApi\project\project\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\WebApi\פרויקט נוחה webApi\project\project\obj\Debug\netcoreapp2.1\project.csprojAssemblyReference.cache
+D:\WebApi\פרויקט נוחה webApi\project\project\obj\Debug\netcoreapp2.1\project.csproj.CoreCompileInputs.cache
+D:\WebApi\פרויקט נוחה webApi\project\project\obj\Debug\netcoreapp2.1\project.RazorAssemblyInfo.cache
+D:\WebApi\פרויקט נוחה webApi\project\project\obj\Debug\netcoreapp2.1\project.RazorAssemblyInfo.cs
+D:\WebApi\פרויקט נוחה webApi\project\project\obj\Debug\netcoreapp2.1\project.AssemblyInfoInputs.cache
+D:\WebApi\פרויקט נוחה webApi\project\project\obj\Debug\netcoreapp2.1\project.AssemblyInfo.cs
+D:\WebApi\פרויקט נוחה webApi\project\project\obj\Debug\netcoreapp2.1\project.RazorTargetAssemblyInfo.cache
+D:\WebApi\פרויקט נוחה webApi\project\project\obj\Debug\netcoreapp2.1\project.csproj.CopyComplete
+D:\WebApi\פרויקט נוחה webApi\project\project\obj\Debug\netcoreapp2.1\project.dll
+D:\WebApi\פרויקט נוחה webApi\project\project\obj\Debug\netcoreapp2.1\project.pdb
+C:\Users\henri\Documents\Batia Zinger\project- flights\project\bin\Debug\netcoreapp2.1\project.deps.json
+C:\Users\henri\Documents\Batia Zinger\project- flights\project\bin\Debug\netcoreapp2.1\project.runtimeconfig.json
+C:\Users\henri\Documents\Batia Zinger\project- flights\project\bin\Debug\netcoreapp2.1\project.runtimeconfig.dev.json
+C:\Users\henri\Documents\Batia Zinger\project- flights\project\bin\Debug\netcoreapp2.1\project.dll
+C:\Users\henri\Documents\Batia Zinger\project- flights\project\bin\Debug\netcoreapp2.1\project.pdb
+C:\Users\henri\Documents\Batia Zinger\project- flights\project\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\henri\Documents\Batia Zinger\project- flights\project\bin\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\henri\Documents\Batia Zinger\project- flights\project\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\henri\Documents\Batia Zinger\project- flights\project\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\henri\Documents\Batia Zinger\project- flights\project\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\henri\Documents\Batia Zinger\project- flights\project\bin\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\henri\Documents\Batia Zinger\project- flights\project\obj\Debug\netcoreapp2.1\project.csprojAssemblyReference.cache
+C:\Users\henri\Documents\Batia Zinger\project- flights\project\obj\Debug\netcoreapp2.1\project.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\Batia Zinger\project- flights\project\obj\Debug\netcoreapp2.1\project.RazorAssemblyInfo.cache
+C:\Users\henri\Documents\Batia Zinger\project- flights\project\obj\Debug\netcoreapp2.1\project.RazorAssemblyInfo.cs
+C:\Users\henri\Documents\Batia Zinger\project- flights\project\obj\Debug\netcoreapp2.1\project.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\Batia Zinger\project- flights\project\obj\Debug\netcoreapp2.1\project.AssemblyInfo.cs
+C:\Users\henri\Documents\Batia Zinger\project- flights\project\obj\Debug\netcoreapp2.1\project.RazorTargetAssemblyInfo.cache
+C:\Users\henri\Documents\Batia Zinger\project- flights\project\obj\Debug\netcoreapp2.1\project.csproj.CopyComplete
+C:\Users\henri\Documents\Batia Zinger\project- flights\project\obj\Debug\netcoreapp2.1\project.dll
+C:\Users\henri\Documents\Batia Zinger\project- flights\project\obj\Debug\netcoreapp2.1\project.pdb

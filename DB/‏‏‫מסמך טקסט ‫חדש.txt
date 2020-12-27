@@ -1,0 +1,3 @@
+Scaffold-DbContext -Connection "Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=M:\אהפרויקט\klikly\DB\Database1.mdf;Integrated Security=True;Connect Timeout=30" -Provider Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models  -Context BookStore –Force
+Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=M:\אהפרויקט\klikly\DB\Database1.mdf;Integrated Security=True;Connect Timeout=30
+
